@@ -85,7 +85,7 @@ The principal component can be written as:
 $$u_1 = Φ_{11}X_1 + Φ_{21}X_2 + Φ_{31}X_3 + .... +Φ_{n1}X_n$$
 
 - $u_1$ is first principal component
-- $Φ$ (pronounced "phi") is called the __Loading Vector__ . It contains set of loadings ($Φ_1, Φ_2..$) of first principal component. It results in a line in n dimensional space which is closest to examples in the dataset. Closeness is measured using average squared euclidean distance as shown earlier.
+- $Φ$ (pronounced "phi" like it rhymes with pi) is called the __Loading Vector__ . It contains set of loadings ($Φ_1, Φ_2..$) of first principal component. It results in a line in n dimensional space which is closest to examples in the dataset. Closeness is measured using average squared euclidean distance as shown earlier.
 - $X_1..X_n$ are set of standardized features. 
 
 
